@@ -1,0 +1,1 @@
+document.write('<h2 style="background:silver; color: red;">How it work</h2>')
